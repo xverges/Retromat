@@ -22,19 +22,22 @@ var phase_titles = ['Preparar el escenario', 'Recopilar datos', 'Reflexionar', '
 all_activities = [];
 all_activities[0] = {
 phase:     0,
-name:      "ESVP",
-summary:   "How do participants feel at the retro: Explorer, Shopper, Vacationer, or Prisoner?",
-desc:      "Prepare a flipchart with areas for E, S, V, and P. Explain the concept: <br>\
+name:      "¿Exploradores o Prisioneros? (ESVP)",
+summary:   "¿Cómo se sienten los participantes en la retrospectiva?<br>¿Exploradores, Receptivos, de Recreo o Prisioneros?",
+desc:      "Explicar el concepto: <br>\
 <ul>\
-    <li>Explorer: Eager to dive in and research what did and didn't work and how to improve.</li>\
-    <li>Shopper: Positive attitude. Happy if one good things comes out.</li>\
-    <li>Vacationer: Reluctant to actively take part but the retro beats the regular work.</li>\
-    <li>Prisoner: Only attend because they (feel they) must.</li>\
+    <li>Explorador: Ansioso por lanzarse a investigar qué ha funcionado, qué no, y cómo mejorar.</li>\
+    <li>Receptivo: Actitud positiva. Satisfecho si sale algo bueno.</li>\
+    <li>De Recreo: Poco dispuesto a participar activamente, pero una retrospectiva es preferible al trabajo habitual.</li>\
+    <li>Prisionero: Está en la retrospectiva únicamente porque es obligatorio (o porque así lo cree).</li>\
 </ul>\
-Take a poll (anonymously on slips of paper). Count out the answers and keep track on the flipchart \
-for all to see. If trust is low, deliberately destroy the votes afterwards to ensure privacy. Ask \
-what people make of the data. If there's a majority of Vacationers or Prisoners consider using the \
-retro to discuss this finding.",
+Preguntar, de manera anónima, en qué categoría se siente cada uno de los \
+participantes en este momento. Apuntar los resultados de manera visible y,\
+si el nivel de desconfianza lo aconseja, destruir las papeletas \
+para asegurar la privacidad. \
+Preguntar a los participantes qué opinan de los resultados. \
+Si hay una mayoría de personas de Recreo o Prisioneros, \
+la retrospectiva puede utilizarse para analizar esta circunstancia.",
 duration:  "5-10 numberPeople",
 source:  source_agileRetrospectives,
 suitable:   "iteration, release, project, immature"

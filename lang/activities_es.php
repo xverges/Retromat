@@ -1,4 +1,4 @@
-var phase_titles = ['Set the stage', 'Gather data', 'Generate insights', 'Decide what to do', 'Close the retrospective', 'Something completely different'];
+var phase_titles = ['Preparar el escenario', 'Recopilar datos', 'Reflexionar', 'Decidir qué hacer', 'Cerrar la retrospectiva', 'Algo completamente distinto'];
 
 // BIG ARRAY OF ALL ACTIVITIES
 // Mandatory: id, phase, name, summary, desc

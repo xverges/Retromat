@@ -44,10 +44,10 @@ suitable:   "iteration, release, project, immature"
 };
 all_activities[1] = {
 phase:     0,
-name:      "Weather Forecast",
-summary:   "Participants mark their 'weather' (mood) on a flipchart",
-desc:      "Prepare a flipchart with a drawing of storm, rain, clouds and sunshine.\
-Each participant marks their mood on the sheet.",
+name:      "Previsión meteorológica",
+summary:   "Los participantes marcan su 'estado del tiempo' (estado de ánimo) en un papel grande",
+desc:      "Preparar un papel grande con dibujos de una tormenta, lluvia, unas nubes y un sol.\
+Cada participante señala su estado de ánimo en el papel.",
 source:  source_agileRetrospectives
 };
 all_activities[2] = {

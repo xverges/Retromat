@@ -52,17 +52,18 @@ source:  source_agileRetrospectives
 };
 all_activities[2] = {
 phase:     0,
-name:      "Check In - Quick Question", // TODO This can be expanded to at least 10 different variants - how?
-summary:   "Ask one question that each participant answers in turn",
-desc:      "In round-robin each participant answers the same question (unless they say 'I pass'). \
-Sample questions: <br>\
+name:      "Check In - Pregunta rápida", // TODO This can be expanded to at least 10 different variants - how?
+summary:   "Hacer una pregunta que todos responden por turnos",
+desc:      "Todos los participantes responden, por turnos, la misma pregunta (excepto si dicen 'paso').<br>\
+Ejemplos de preguntas: <br>\
 <ul>\
-    <li>In one word - What do you need from this retrospective?</li>\
-        Address concerns, e.g. by writing it down and setting it - physically and mentally - aside</li>\
-    <li>In this retrospective - If you were a car, what kind would it be?</li>\
-    <li>What emotional state are you in (e.g. 'glad', 'mad', 'sad', 'scared'?)</li>\
+    <li>En una palabra, ¿qué esperas de esta retrospectiva?</li>\
+    <li>En una palabra, ¿qué tienes en la cabeza?<br>\
+        Gestiona las preocupaciones (por ejemplo, apuntándolas en un papel y apartándolas física y mentalmente).</li>\
+    <li>Si en esta retrospectiva fueras un coche, ¿qué clase de coche serías?</li>\
+    <li>¿Cómo te sientes? Contento, enfadado, triste, asustado...</li>\
 </ul><br>\
-Avoid evaluating comments such as 'Great'. 'Thanks' is okay.",
+Evitar evaluar en las respuestas ('¡perfecto!'); 'gracias' es suficiente.",
 source:  source_agileRetrospectives
 };
 all_activities[3] = {

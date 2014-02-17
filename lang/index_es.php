@@ -1,16 +1,16 @@
 <?php
 
-$_lang['HTML_TITLE'] = 'Inspiration &amp; plans for (agile) retrospectives';
-$_lang['INDEX_PITCH'] = '¿Estas planeando tu siguiente <b>retrospectiva</b>? Comienza con una configuración aleatoria, modificala, imprimela y comparte la url. O simplemente navega para ver nuevas ideas!';
+$_lang['HTML_TITLE'] = 'Inspiración y planes para restrospectivas (ágiles)';
+$_lang['INDEX_PITCH'] = '¿Estás planeando tu siguiente <b>retrospectiva</b>? Comienza con una configuración aleatoria, modifícala, imprímela y comparte la url. O, simplemente, navega para ver nuevas ideas!';
 $_lang['INDEX_PLAN_ID'] = 'IDs:';
 $_lang['INDEX_BUTTON_SHOW'] = 'Mostrar!';
-$_lang['INDEX_RANDOM_RETRO'] = 'Nuevo plan de retrosctiva aleatorio';
+$_lang['INDEX_RANDOM_RETRO'] = 'Nuevo plan de retrospectiva aleatorio';
 $_lang['INDEX_ENTER_ID'] = 'Introduce IDs para visualizar';
 $_lang['INDEX_SEARCH_KEYWORD'] = 'Buscar actividades por palabra clave';
 $_lang['INDEX_ALL_ACTIVITIES'] = 'Todas las actividades para';
 
-$_lang['INDEX_ABOUT'] = 'Retr-O-Mat contiene <span class="js_footer_no_of_activities"></span> actividades, pudiendo generar <span class="js_footer_no_of_combinations"></span> combinaciones (<span class="js_footer_no_of_combinations_formula"></span>) y nosotros estamos continuamente añadiendo mas. ¿Conoces una posible actividad?';
-$_lang['INDEX_ABOUT_SUGGEST'] = 'Cuentanosla!';
+$_lang['INDEX_ABOUT'] = 'Retr-O-Mat contiene <span class="js_footer_no_of_activities"></span> actividades, pudiendo generar <span class="js_footer_no_of_combinations"></span> combinaciones (<span class="js_footer_no_of_combinations_formula"></span>) y nosotros estamos continuamente añadiendo más. ¿Conoces una posible actividad?';
+$_lang['INDEX_ABOUT_SUGGEST'] = 'Cuéntanosla!';
 
 //$_lang['INDEX_TEAM_TRANSLATOR_TITLE'] = 'Translation: ';
 //$_lang['INDEX_TEAM_TRANSLATOR_NAME'] = 'Your Name';
@@ -23,8 +23,8 @@ $_lang['INDEX_ABOUT_SUGGEST'] = 'Cuentanosla!';
 $_lang['INDEX_TEAM_CORINNA_TITLE'] = 'Created by ';
 $_lang['INDEX_TEAM_CORINNA_TEXT'] = $_lang['INDEX_MINI_TEAM'] = <<<EOT
     Corinna llevaba pensando en algo como Retr-O-Mat desde sus años como Scrummaster.
-    Finalmente lo hizo ella misma con la esperanza de que fuera util para otros tambien.
-    ¿Alguna pregunta, sugerencia o simplemente felicitacion?
+    Finalmente lo hizo ella misma con la esperanza de que fuera útil para otros también.
+    ¿Alguna pregunta, sugerencia o simplemente felicitación?
     Puedes escribirla a <a href="mailto:corinna@finding-marbles.com">corinna@finding-marbles.com</a> o
     <a href="https://twitter.com/findingmarbles">contactar con ella en Twitter</a>.
 EOT;
@@ -38,7 +38,7 @@ $_lang['ACTIVITY_PHOTO_ADD'] = 'Añadir foto';
 $_lang['ACTIVITY_PHOTO_MAIL_SUBJECT'] = 'Photos%20for%20Activity%3A%20ID';
 $_lang['ACTIVITY_PHOTO_MAIL_BODY'] = 'Hi%20Corinna%21%0D%0A%0D%0A[%20]%20Photo%20is%20attached%0D%0A[%20]%20Photo%20is%20online%20at%3A%20%0D%0A%0D%0ABest%2C%0D%0AYour%20Name';
 
-$_lang['ERROR_NO_SCRIPT'] = 'Retr-O-Mat depende estrechamente de JavaScript y no funciona sin el. Por favor, habilita Javascript en tu navegador. Gracias!';
+$_lang['ERROR_NO_SCRIPT'] = 'Retr-O-Mat depende estrechamente de JavaScript y no funciona sin él. Por favor, habilita Javascript en tu navegador. Gracias!';
 $_lang['ERROR_MISSING_ACTIVITY'] = 'Lo siento, no se encontro una actividad con ID';
 
 $_lang['POPUP_CLOSE'] = 'Cerrar';

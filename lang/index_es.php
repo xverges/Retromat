@@ -1,7 +1,6 @@
 <?php
 
 $_lang['HTML_TITLE'] = 'Inspiration &amp; plans for (agile) retrospectives';
-
 $_lang['INDEX_PITCH'] = '¿Estas planeando tu siguiente <b>retrospectiva</b>? Comienza con una configuración aleatoria, modificala, imprimela y comparte la url. O simplemente navega para ver nuevas ideas!';
 $_lang['INDEX_PLAN_ID'] = 'IDs:';
 $_lang['INDEX_BUTTON_SHOW'] = 'Mostrar!';
